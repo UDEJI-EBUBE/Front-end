@@ -13,6 +13,7 @@ Image tag: this is an empty tag <img src=""><br>
 Break tag `<br>`: this is used to move to another line 
 E.g 
 `<p>Welcome to my <br> anime world</p>`
+![1](img/Screenshot%20(286).png)
 
 Just as in other programming languages we can also add comments in html with
 `<!--...-->`
